@@ -1,0 +1,10 @@
+
+  @media (max-width: 768px) {
+    .wt-bnr-inr-entry > div {
+      flex-basis: 100%;
+      padding-bottom: 1em;
+    }
+    #div{
+     height: 2rem;
+    }
+  }
